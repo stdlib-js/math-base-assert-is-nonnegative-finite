@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isNonNegativeFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nonnegative-finite@esm/index.mjs';
+import isNonNegativeFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nonnegative-finite@v0.0.1-esm/index.mjs';
 ```
 
 #### isNonNegativeFinite( x )
@@ -68,7 +68,7 @@ bool = isNonNegativeFinite( -2.0 );
 <body>
 <script type="module">
 
-import isNonNegativeFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nonnegative-finite@esm/index.mjs';
+import isNonNegativeFinite from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nonnegative-finite@v0.0.1-esm/index.mjs';
 
 var bool = isNonNegativeFinite( 5.0 );
 // returns true
