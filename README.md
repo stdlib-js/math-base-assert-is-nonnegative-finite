@@ -212,6 +212,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/assert/is-negative-finite`][@stdlib/math/base/assert/is-negative-finite]</span><span class="delimiter">: </span><span class="description">test if a double-precision floating-point numeric value is a negative finite number.</span>
+-   <span class="package-name">[`@stdlib/math-base/assert/is-positive-finite`][@stdlib/math/base/assert/is-positive-finite]</span><span class="delimiter">: </span><span class="description">test if a double-precision floating-point numeric value is a positive finite number.</span>
+-   <span class="package-name">[`@stdlib/math-base/assert/is-nonpositive-finite`][@stdlib/math/base/assert/is-nonpositive-finite]</span><span class="delimiter">: </span><span class="description">test if a numeric value is a nonpositive finite number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -289,6 +297,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-is-nonnegative-finite/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/assert/is-negative-finite]: https://github.com/stdlib-js/math-base-assert-is-negative-finite
+
+[@stdlib/math/base/assert/is-positive-finite]: https://github.com/stdlib-js/math-base-assert-is-positive-finite
+
+[@stdlib/math/base/assert/is-nonpositive-finite]: https://github.com/stdlib-js/math-base-assert-is-nonpositive-finite
 
 <!-- </related-links> -->
 
