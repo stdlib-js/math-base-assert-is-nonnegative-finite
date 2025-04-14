@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-27)
+## Unreleased (2025-04-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2b6d616`](https://github.com/stdlib-js/stdlib/commit/2b6d61659b1436a6a3c18308e2c56a01e2be89ed) - **bench:** update random value generation [(#6683)](https://github.com/stdlib-js/stdlib/pull/6683) _(by Harsh)_
 -   [`a69e423`](https://github.com/stdlib-js/stdlib/commit/a69e423dc4990692cdf4ce6648544ba30594d7cb) - **docs:** update related packages sections [(#4265)](https://github.com/stdlib-js/stdlib/pull/4265) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`f13ddb2`](https://github.com/stdlib-js/stdlib/commit/f13ddb2eb01e5520b6fa98634bbf9de76793036f) - **style:** use spaces for alignment in C comments _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Philipp Burckhardt
 
 </section>
