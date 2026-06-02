@@ -89,7 +89,10 @@
     "finite",
     "nonnegative",
     "isnonnegative",
-    "isfinite"
+    "isfinite",
+    "is",
+    "type",
+    "check"
   ],
   "funding": {
     "type": "opencollective",
